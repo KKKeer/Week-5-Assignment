@@ -1,0 +1,23 @@
+p{
+    font-size: 20px;
+    color:rgb(0, 107, 128);
+}
+
+p, ul, ol {
+    color:green;
+    }
+
+.standout
+{
+    color:dodgerblue
+}
+
+h2.standout, .bold_text
+{
+    color:sandybrown
+}
+
+p[align="center"]
+{
+    color:brown
+}
